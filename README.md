@@ -20,6 +20,13 @@ This repository provides a step-by-step guide to deploy an AI demo on a Raspberr
 | **Computer Vision with Hailo**   | Object Detection, Pose Estimation, Instance Segmentation, CLIP |
 | **Speech**                       | Whisper                                            |
 
+# How to run
+
+```bash
+pip install hailoairun
+hailoairun object_detection
+```
+
 ## 💞 Top contributors:
 
 <a href="https://github.com/Seeed-Projects/Raspberry-Pi-Hailo-AI-Demo/graphs/contributors">
