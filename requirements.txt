@@ -1,0 +1,4 @@
+setuptools
+docker
+wheel
+twine
